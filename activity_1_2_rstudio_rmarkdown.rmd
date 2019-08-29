@@ -1,6 +1,11 @@
 ---
 title: "Activity1_2_RMarkdown"
-output: html_document
+output: 
+  html_document: 
+    fig_height: 8
+    fig_width: 8
+    highlight: espresso
+    theme: lumen
 author: Drew Leslie
 Date: "26th Aug, 2019"
 ---
