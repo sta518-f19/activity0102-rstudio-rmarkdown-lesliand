@@ -14,6 +14,8 @@ The shape is of, most likely, a type of allosaur.  Calculating the r-value is no
 ## Answer to Ex 3.
 It looks like a star. The r-value is -.063. I chose not to find the r-value for dino.
 
+## Answer to Ex 4.
+It is the same value as the previous star shape and only slightly different than the dino.
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
